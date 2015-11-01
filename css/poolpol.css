@@ -1,6 +1,31 @@
 @import url(http://awebfont.ir/css?id=1116&mode=wletso);
 
-body {
+html {
 	direction: rtl;
 	font-family: 'B Yekan';
+	font-size: 16px;
+}
+
+.redify {
+	color: red;
+}
+
+.bluify {
+	color: #29B6F6;
+}
+
+.q-info {
+	font-size: 1.2rem;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	position: relative;
+	top: 20px;
+}
+
+.q-navigate {
+	font-size: 1.3rem;
 }
