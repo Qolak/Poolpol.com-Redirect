@@ -12,5 +12,5 @@ var setContainerPos = function()
 
 	var topPos = (winHeight / 2) - (containerHeight / 2);
 
-	$('.container').css('top', topPos + 'px');
+	$('.container').css('top', topPos-20 + 'px');
 }
