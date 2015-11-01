@@ -23,7 +23,7 @@ html {
 	margin-right: auto;
 	display: block;
 	position: relative;
-	top: 20px;
+	/* Actual position is given via setContainerPos in poolpol.js */
 }
 
 .q-navigate {
