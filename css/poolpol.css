@@ -6,8 +6,8 @@ html {
 	font-size: 16px;
 }
 
-.redify {
-	color: red;
+.greenify {
+	color: forestgreen;
 }
 
 .bluify {
@@ -28,4 +28,10 @@ html {
 
 .q-navigate {
 	font-size: 1.3rem;
+}
+
+.divider {
+	width: 80% !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
 }
