@@ -7,7 +7,7 @@ html {
 }
 
 .greenify {
-	color: forestgreen;
+	color: forestgreen !important;
 }
 
 .bluify {
